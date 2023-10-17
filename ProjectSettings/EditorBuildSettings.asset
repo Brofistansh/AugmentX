@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/OutdoorsScene.unity
+    guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ad0dc6fec2f360f468b0e7fd0dee6041,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a8c2c16bb7edf7043a0ed945c0cb501e,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9f50de9fc2c3fe543b92d3a412a3dacb,
+      type: 2}
